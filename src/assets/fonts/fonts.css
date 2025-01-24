@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'ALMM';
+  src: url('./almm.ttf');
+}
+@font-face {
+  font-family: 'Mooli';
+  src: url('./Mooli.ttf');
+}
+@font-face {
+  font-family: 'OPS';
+  src: url('./ops.ttf');
+}
+body {
+  font-family: 'OPS';
+}
