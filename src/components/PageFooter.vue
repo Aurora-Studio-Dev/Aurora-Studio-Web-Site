@@ -103,6 +103,7 @@
           </a>
         </div>
       </div>
+      <!--
       <div class="footer-col">
         <h3>赞助</h3>
         <ul>
@@ -123,6 +124,7 @@
           <li></li>
         </ul>
       </div>
+      ->s
       <div class="footer-col">
         <h3>产品</h3>
         <ul>
