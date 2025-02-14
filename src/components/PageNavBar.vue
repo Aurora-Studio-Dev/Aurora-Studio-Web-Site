@@ -32,7 +32,7 @@ const handleSelect = function (key) {
     4: '/about',
   }
   if (key === '3') {
-    window.location.href = 'https://docs.thzstudent.top'
+    window.location.href = 'https://docs.aurorastudio.top'
   } else {
     router.push(routesMap[key] || '/')
   }

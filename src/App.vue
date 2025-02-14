@@ -9,7 +9,7 @@ import Footer from './components/PageFooter.vue'
     <NavBar />
   </header>
   <main>
-    <RouterView />
+    <RouterView/>
   </main>
   <el-backtop :right="80" :bottom="80" />
   <footer>
