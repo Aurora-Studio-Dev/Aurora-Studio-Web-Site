@@ -7,8 +7,8 @@
     </div>
     <br/>
     <div class="c">
-      <a target="_blank" href="https://beian.miit.gov.cn/">粤 ICP 备第 2025371287 号 - 1</a>
-      <p>Copyright © {{ VisitingYear }} Aurora Studio. All rights reserved.</p>
+      <a target="_blank" href="https://beian.miit.gov.cn/">粤ICP备2025371287号-1</a>
+      <p>Copyright © 2022-{{ VisitingYear }} Aurora Studio. All rights reserved.</p>
     </div>
     <div style="height: 30px"/>
   </div>
